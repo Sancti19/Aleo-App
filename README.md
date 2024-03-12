@@ -1,6 +1,5 @@
 <!-- # ⭕ Tic-Tac-Toe -->
-## Discsord Username
-Sancti4675
+Discsord Username : Sancti4675
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
 A standard game of Tic-Tac-Toe in Leo.
